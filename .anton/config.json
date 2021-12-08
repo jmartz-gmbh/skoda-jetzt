@@ -7,8 +7,8 @@
     },
     "servers": {
         "13371339": {
-            "host": "157.90.122.16",
-            "domain": "www.pwa-template.de",
+            "host": "94.130.72.206",
+            "domain": "www.skoda.jetzt",
             "user": "root",
             "folder": "/var/www"
         }
